@@ -16,6 +16,6 @@ latest_posts:
   enabled: false
 ---
 
-I am a first-year PhD student in the [OCKHAM](https://team.inria.fr/ockham/) team under the supervision of [Paulo Gonçalves](https://perso.ens-lyon.fr/paulo.goncalves/), [Mathurin Massias](https://mathurinm.github.io/about/), and [Quentin Bertrand](https://qb3.github.io/) since November 2026. I am working on understanding the generalization of diffusion and flow matching models.
+I am a first-year PhD student in the [OCKHAM](https://team.inria.fr/ockham/) team under the supervision of [Paulo Gonçalves](https://perso.ens-lyon.fr/paulo.goncalves/), [Mathurin Massias](https://mathurinm.github.io/about/) and [Quentin Bertrand](https://qb3.github.io/) since November 2026. I am working on understanding the generalization of diffusion and flow matching models.
 
 **Contact:** komi.gozan [at] inria [dot] fr
