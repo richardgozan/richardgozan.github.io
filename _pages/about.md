@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student in Machine Learning at <a href="https://www.inria.fr/en">Inria</a> and <a href="https://www.ens-lyon.fr/">ENS de Lyon</a>.
+subtitle: PhD Student in Machine Learning at <a href="https://www.inria.fr/en">Inria</a> - <a href="https://www.ens-lyon.fr/">ENS de Lyon</a>.
 
 selected_papers: false # no publications yet
 social: false # social icons will be added later
